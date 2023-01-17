@@ -1,7 +1,5 @@
-# BotPermanente
-# `@𝐀𝐥𝐞.𝐢𝐳𝐧.𝟐𝟎 `
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
+### `—◉ 👑 ¡Hola! Aleizn-MD?, CONTACTAME 👑`
 <a href="http://wa.me/+51904865141" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
@@ -61,3 +59,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
 `Ale __________ Ale?`
+
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+</div>
