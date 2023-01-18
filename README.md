@@ -19,7 +19,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Aleizn/Permanente
-> cd BotsitoOficial
+> cd Permanente
 > yarn install 
 > npm install
 > npm update
@@ -36,7 +36,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd BPermanente
+> cd Permanente
 > rm -rf session.data.json
 > npm start
 ```
